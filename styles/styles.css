@@ -1,0 +1,102 @@
+body{
+    text-align: center;
+    margin: 0px;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    color:#66BFBF;
+    margin-top: 20px;
+    font-family: 'Sacramento', cursive;
+    font-size: 562.5%;
+}
+.top{
+    background-color: #e4f9f5;
+    
+}
+
+
+.bottom-container{
+  padding: 20px;
+    background-color: #66BFBF;
+}
+.topc{
+    position: relative;
+    left: 230px;
+    margin-top: 50px;
+}
+h2{
+    color:#66BFBF;
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    color:#11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+.propic{
+    width: 150px;
+}
+.progC{
+    width: 150px;
+
+}
+.And{
+    width: 150px;
+}
+.Web{
+    width: 150px;
+}
+.comm{
+    width: 1000px;
+}
+.webB{
+    text-align: center;
+    background-color: black;
+}
+.intro{
+    width: 33%;
+    margin: auto;
+}
+p{
+    line-height: 2;
+}
+hr{
+    border: dotted grey 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  a{
+      margin: 10px 20px;
+      color: blue;
+      
+  }
+  .copy{
+      color: white;
+  }
